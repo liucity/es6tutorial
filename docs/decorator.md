@@ -353,7 +353,7 @@ C.prototype.m = logged(C.prototype.m, {
 }) ?? C.prototype.m;
 ```
 
-## 方法的装饰
+## 属性的装饰
 
 装饰器不仅可以装饰类，还可以装饰类的属性。
 
